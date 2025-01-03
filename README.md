@@ -16,10 +16,10 @@ Fork of the deprecated IconExport module from TechNet
 - [ ] Support for index and sizes other than 32px in PowerShell Desktop.
 
 ## Source
-> © Chrissy LeMaire (@potatoqualitee) 2016
+© Chrissy LeMaire [@potatoqualitee](https://github.com/potatoqualitee) 2016. I take no credit for the original module.
 [PowerShell Gallery](https://www.powershellgallery.com/packages/IconExport)
 [Archived Technet Gallery](https://web.archive.org/web/20200923074956/https://gallery.technet.microsoft.com/scriptcenter/Export-Icon-from-DLL-and-9d309047)
 
 Also mentioned are:
-> [Thomas Levesque](http://bit.ly/1KmLgyN)
-> [darkfall](http://git.io/vZxRK)
+[Thomas Levesque](http://bit.ly/1KmLgyN)
+[darkfall](http://git.io/vZxRK)
